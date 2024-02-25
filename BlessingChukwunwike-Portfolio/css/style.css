@@ -1,0 +1,52 @@
+* {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #bec7cf !important;
+}
+
+.custom-bg {
+    background-image: url(../images/8751584.jpg) !important;
+    background-size: cover;
+    background-repeat: repeat !important;
+    background-position: center center;
+}
+
+.active {
+    background-color: #2C3E50 !important; /* Change this to your desired color */
+}
+
+.fs-3 {
+    font-size: 3em;
+    font-weight: 1000;
+}
+
+.text-center {
+    font-weight: bolder;
+    font-size: 2.5em;
+    text-align: end!important;
+    background-color: #2C3E50;
+    color: white !important;
+}
+
+.card {
+    background-color: #2C3E50 !important;
+    color: #bec7cf !important;
+}
+
+.thick {
+    font-weight: bolder;
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none !important; /* Remove underline */
+}
+
+.btn {
+    background-color: #2C3E50 !important;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: #34495e !important; /* Change the background color on hover */
+    color: #fff !important; /* Change the text color on hover */
+}
